@@ -107,3 +107,18 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Unity project inside StrikeZone
+StrikeZone/[Ll]ibrary/
+StrikeZone/[Tt]emp/
+StrikeZone/[Oo]bj/
+StrikeZone/[Bb]uild/
+StrikeZone/[Bb]uilds/
+StrikeZone/[Ll]ogs/
+StrikeZone/[Uu]ser[Ss]ettings/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
